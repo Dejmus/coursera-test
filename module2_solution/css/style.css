@@ -14,7 +14,7 @@ h1 {
 }
 
 p {
-  background-color: #ededed;
+  border:1px solid lightgray;
   width: calc(100% - 40px);
   margin: 0 auto;
   font-family: Helvetica;
