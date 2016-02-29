@@ -29,7 +29,8 @@ section{
 	width:130px;
 	text-align: center;
 	font-size: 125%;
-	border: #000 1px solid;
+	border-bottom: #000 1px solid;
+	border-left: #000 1px solid;
 }
 #title_1{
 	background:#fcee00;
