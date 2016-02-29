@@ -161,14 +161,6 @@ float: left;
 
 
 /* Custom Style */
-.block{
-  border: 1px grey solid;
-}
-
-.center {
-  margin: 0 auto;
-}
-
 .title{
   text-align:center;
 }
